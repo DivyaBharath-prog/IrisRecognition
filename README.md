@@ -22,7 +22,7 @@ Abstract: This project intends to identify humans by they iris using techniques 
 ## **Datasets**:
 
 - *CASIA1*: http://www.cbsr.ia.ac.cn/IrisDatabase.htm 
-  
+  * More datasets cen be added and worked on with it by adding the images into the folders 
 
 <div id='example' />
 
